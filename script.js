@@ -1,3 +1,4 @@
 function helloCorrecteur(){
-  alert("hello correcteur");
+  var hello = "hello correcteur";
+  alert(hello);
 }
